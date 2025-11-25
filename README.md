@@ -31,3 +31,9 @@
 * LLM-Based Market Recommendation: Feed forecast data to an LLM to suggest optimal nearby markets for maximum revenue.
 
 * User Interface & Deployment: Provide a user-friendly interface (Gradio/notebook) for farmers to access forecasts, graphs, and AI-driven market suggestions
+
+**Deployment :-**
+
+<img width="1599" height="593" alt="Screenshot (24)" src="https://github.com/user-attachments/assets/a8986502-d2f4-46a5-bae5-70708a69b9b9" />
+<img width="1531" height="599" alt="Screenshot (23)" src="https://github.com/user-attachments/assets/29d91c89-79fe-44bd-9c89-c24e110e38de" />
+
